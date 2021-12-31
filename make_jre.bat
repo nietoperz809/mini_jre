@@ -1,0 +1,1 @@
+C:\Users\Administrator\.jdks\azul-15.0.3\bin\jlink --no-header-files --no-man-pages --compress=2 --strip-debug --add-modules java.desktop,java.base --output java-runtime
